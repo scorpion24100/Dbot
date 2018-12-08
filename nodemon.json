@@ -1,0 +1,4 @@
+{
+    "ignore": ["botsetting.json"],
+    "ignore": ["pounded.json"]  
+}
